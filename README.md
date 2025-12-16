@@ -98,8 +98,6 @@ The tutorials are intentionally designed to bridge the gap between theoretical k
 To guide design decisions, two representative learner personans were developed, Chiara and Marco. 
 
 #### Chiara — The Emerging Astrophysicist
-<img src="images/persona-elisa.png" width="400">
-
 
 ![Learner persona: Chiara](images/persona-chiara.png)
 
