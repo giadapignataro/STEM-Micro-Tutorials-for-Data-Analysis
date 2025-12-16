@@ -15,9 +15,12 @@ The project was developed using learning experience design principles, informed 
 - Tutorial 3: Spectral Index Estimation (planned)
 
 ## Needs Assessment
-Project: STEM Micro-Tutorials for Data Analysis in Physics & Astronomy
-Context: University of Bologna
-Designer: Giada Pignataro, PhD
+**Project**: STEM Micro-Tutorials for Data Analysis in Physics & Astronomy
+
+**Context**: University of Bologna
+
+**Designer**: Giada Pignataro, PhD
+
 
 #### 1. Context and Purpose
 
