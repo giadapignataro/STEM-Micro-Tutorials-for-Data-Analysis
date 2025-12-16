@@ -95,9 +95,11 @@ Evaluation will be informal and qualitative, based on:
 The tutorials are intentionally designed to bridge the gap between theoretical knowledge and applied practice, supporting learners as they transition toward more autonomous, research-oriented work. By focusing on realistic use cases and short learning segments, the project aligns with both learner needs and the practical constraints of academic environments.
 
 ## Learner Personas
-To guide design decisions, two prepresentative learner personans were developed. 
+To guide design decisions, two representative learner personans were developed, Chiara and Marco. 
 
 #### Chiara — The Emerging Astrophysicist
+<img src="images/persona-elisa.png" width="400">
+
 
 ![Learner persona: Chiara](images/persona-chiara.png)
 
