@@ -1,6 +1,3 @@
-![eh](images/IMG_7994.png)
-# TIE! però continua sotto è serio AHAHAHAH
-
 ## Overview 
 This repository contains a series of short, hands-on micro-tutorials designed to help Astronomy and Physics students develop practical data-analysis skills using Python and Jupyter notebooks.
 The project was developed using learning experience design principles, informed by first-hand academic experience and informal faculty feedback.
