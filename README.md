@@ -12,7 +12,7 @@ The project was developed using learning experience design principles, informed 
 ## Tutorials
 - Tutorial 1: Plotting with Matplotlib
 - Tutorial 2: Introduction to Linear Regression
-- Tutorial 3: Spectral Index Estimation (planned)
+- Tutorial 3: Understanding Uncertainty with Error Bars
 
 ## Needs Assessment
 **Project**: STEM Micro-Tutorials for Data Analysis in Physics & Astronomy
