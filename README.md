@@ -1,4 +1,4 @@
-![eh](images/IMG_7994.HEIC)
+![eh](images/IMG_7994.png)
 # TIE! però continua sotto è serio AHAHAHAH
 
 ## Overview 
